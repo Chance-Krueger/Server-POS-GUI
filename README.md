@@ -58,4 +58,6 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
             - Make a map of all available tables that the server has, click the table, and then give options.
         - Make GUI more colorful
         - Design GUI to be a CVM Design Pattern.
+    - Add real-time, multi-user support so multiple users can use the system simultaneously with synchronized updates.
+    - Add more functionality to management
         
