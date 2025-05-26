@@ -53,6 +53,7 @@ This Java GUI application simulates a restaurant server's tasks. Run LoginFrame 
         manager to coordinate all server activity without compromising encapsulation.
 
 ## Future Changes:
+    - Making it a Jar executable
     - GUI:
         - Instead of typing for a table to print the current/pay bill, take orders, etc. 
             - Make a map of all available tables that the server has, click the table, and then give options.
