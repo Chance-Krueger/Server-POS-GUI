@@ -1,0 +1,25 @@
+MANAGER DATA:
+BillsPaid:
+Lotz;bill1;0.0;Chicken Fajitas,2;
+Lotz;bill2;100.0;
+chance1;bill1;3.0;Chile con Queso,1;Dos Equis Ambar,2;Chicken Salad,1;El Jefe Margarita,1;Blackberry Mint Mojito,2;Guacamole,1;Tortilla Soup,1;Modelo Especial Lagar,3;Spanish Sangria,1;
+chance1;bill2;3.0;
+FrequencyCount:
+Dos Equis Ambar,2;Double Meat,0;Charro Beans,0;Traditional Flan,0;Bacon-Wrapped Stuffed Shrimp,0;Chile con Queso,1;Tres Leches Cake,0;Steak Fajitas,0;El Jefe Margarita,1;Chile Rellonos,0;Corn Tortilla,0;Guacamole,1;Chicken Fajitas,2;No Cheese,0;Extra Guacamole,0;No Cilantro,0;Chicken Enchiladas,0;No Onions,0;Green Chile Chicken Quesadilla,0;Flour Tortilla,0;Blackberry Mint Mojito,2;Fajita Shrimp Tacos,0;Mexican Rice,0;Tortilla Soup,1;Modelo Especial Lagar,3;Extra Salsa,0;Vegetable Fajitas,0;No Peppers,0;Add Tajin,0;No Tomatoes,0;Chicken Salad,1;Dulce de Leche Cheesecake,0;Spanish Sangria,1;Steak Chimichanga,0;
+AllTables:
+TWENTY_TWO,false;ELEVEN,false;EIGHT,false;NINETEEN,false;TWENTY,false;SEVEN,false;SIXTEEN,false;TWENTY_NINE,false;ONE,false;FOUR,false;NINE,false;FIVE,false;TWENTY_SEVEN,false;SEVENTEEN,false;TWENTY_ONE,false;TWELVE,false;TWENTY_THREE,false;EIGHTEEN,false;THIRTY,false;TEN,false;TWENTY_FOUR,false;FIFTEEN,false;FOURTEEN,false;TWENTY_SIX,false;TWENTY_FIVE,false;TWENTY_EIGHT,false;SIX,false;TWO,true;THIRTEEN,false;THREE,false;
+SERVER DATA:
+Server:
+Lotz;100.0;
+BILLS:
+TABLE HASHMAP:
+TWO,Lotz;bill1;0.0;true;Chicken Fajitas,1;Lotz;bill2;0.0;false;Chicken Fajitas,1;Lotz;bill3;0.0;false;
+THREE,Lotz;bill1;0.0;false;Lotz;bill2;0.0;false;Charro Beans,1;Lotz;bill3;0.0;false;Lotz;bill4;0.0;false;Vegetable Fajitas,1;Lotz;bill5;0.0;false;
+Server:
+Bob;0.0;
+BILLS:
+TABLE HASHMAP:
+Server:
+chance1;6.0;
+BILLS:
+TABLE HASHMAP:

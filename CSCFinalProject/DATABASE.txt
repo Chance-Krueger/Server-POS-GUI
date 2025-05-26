@@ -1,0 +1,3 @@
+chance,7OnOrAitFXmesuaMDqcvkmxnx6xwztLMab2MGS/jXYc=,FhSiCi0GifjwoDY6W3vDCg==,9xUavCy7GDcSRsLEUIj+nx7XhDb7ZOsXqmpaOrXOkLY=,1,0
+chance1,Gv/1fWnmmsdJjIAWxoUieg9FigCbDWbANVcydEWigis=,rqyxjq4PEkzjGrCgYfnF4Q==,FLWt2L1wJrL86SJi36IMvx5fX1dORXtz617Qt7LfaQ4=,3,0
+username,Tn3x1c45rT80xmWfoQ8f9idt0+u/BrEfenknAeOCDDc=,lXUTDA28qXXLMqoLNiwh0Q==,VI2IwQLoC11Wm8CPMLJ3NupYEXCsW6uGmZJlW0XENLM=,1,0

@@ -1,0 +1,17 @@
+Drinks
+El Jefe Margarita,13.99;Blackberry Mint Mojito,13.99;Spanish Sangria,10.99;Dos Equis Ambar,7.99;Modelo Especial Lagar,7.99
+
+Appetizers
+Chile con Queso,10.59;Guacamole,13.29;Bacon-Wrapped Stuffed Shrimp,14.89;Tortilla Soup,10.59;Chicken Salad,16.99
+
+Entrees
+Steak Fajitas,29.49;Chicken Fajitas,26.49;Vegetable Fajitas,21.89;Chile Rellonos,22.99;Green Chile Chicken Quesadilla,19.69;Chicken Enchiladas,16.49;Steak Chimichanga,25.19;Fajita Shrimp Tacos,19.69
+
+Sides
+Mexican Rice,3.99;Charro Beans,3.99;Flour Tortilla,0.79;Corn Tortilla,0.49
+
+Desserts
+Traditional Flan,8.99;Dulce de Leche Cheesecake,8.99;Tres Leches Cake,8.99
+
+Modifications
+No Onions,0.0;No Cilantro,0.0;No Tomatoes,0.0;No Cheese,0.0;No Peppers,0.0;Extra Guacamole,3.79;Extra Salsa,0.0;Double Meat,7.49;Add Tajin,0.0
